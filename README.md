@@ -81,3 +81,15 @@ You can ask questions like:
   Dataset: MedQuAD - NLM/NIH
   Developed as part of a Data Science Internship Task
 
+🛠️ How to Run the Medical Q&A Chatbot:
+# Step 1: Clone the repository
+git clone https://github.com/PrasadPardeshi20/medical-question-answering-chatbot.git
+
+# Step 2: Navigate to the project directory
+cd medical-question-answering-chatbot
+
+# Step 3: Install the dependencies
+pip install -r Requirments.txt
+
+# Step 4: Run the chatbot
+streamlit run UI.py
