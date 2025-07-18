@@ -34,11 +34,8 @@ It is designed to assist users by answering their medical questions using real a
 | File Name            | Description                             |
 |----------------------|-----------------------------------------|
 | `UI.py`              | Main Streamlit app code (chatbot logic) |
-
 | `medical_chatbot.ipynb` | Jupyter Notebook version of development |
-
 | `qa_data.csv`        | Final processed dataset used for Q&A    |
-
 | `requirements.txt`   | Python dependencies                     |
 
 ---
