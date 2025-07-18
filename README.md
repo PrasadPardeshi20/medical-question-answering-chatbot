@@ -71,15 +71,6 @@ In Anaconda Prompt (in the same directory as UI.py):
   streamlit run UI.py
   #This will open a browser window with the chatbot interface.
 
-✨ Example Usage
-You can ask questions like:
-  1) What is leukemia?
-  2)How is diabetes treated?
-  3)What are symptoms of asthma?
-
-🙌 Credits
-  Dataset: MedQuAD - NLM/NIH
-  Developed as part of a Data Science Internship Task
 
 🛠️ How to Run the Medical Q&A Chatbot:
 # Step 1: Clone the repository
@@ -93,3 +84,14 @@ pip install -r Requirments.txt
 
 # Step 4: Run the chatbot
 streamlit run UI.py
+
+
+✨ Example Usage
+You can ask questions like:
+  1) What is leukemia?
+  2)How is diabetes treated?
+  3)What are symptoms of asthma?
+
+🙌 Credits
+  Dataset: MedQuAD - NLM/NIH
+  Developed as part of a Data Science Internship Task
