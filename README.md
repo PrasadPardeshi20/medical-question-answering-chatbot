@@ -95,3 +95,6 @@ You can ask questions like:
 🙌 Credits
   Dataset: MedQuAD - NLM/NIH
   Developed as part of a Data Science Internship Task
+
+## ScreenShot :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68016e1d-44f7-48d9-a71b-2dff1f9769e4" />
