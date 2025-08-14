@@ -51,26 +51,6 @@ Follow the steps below to run the chatbot locally on your machine:
 Use **Anaconda Prompt** on Windows:
 
 ```bash
-conda create -n medqa python=3.10
-conda activate medqa
-
-🐍 STEP 2: Create & Activate Virtual Environment (optional but recommended)
-Using Anaconda Prompt (Windows recommended):
-  conda create -n medqa python=3.10
-  conda activate medqa
-
-📦 STEP 3: Install Required Packages:
-   pip install -r requirements.txt
-
-📂 STEP 4: Make Sure the qa_data.csv File Exists:
-  Ensure that qa_data.csv is present in the same folder where your UI.py file is.
-  If not, download it from repository.
-
-▶️ STEP 5: Run the Streamlit App
-In Anaconda Prompt (in the same directory as UI.py):
-  streamlit run UI.py
-  #This will open a browser window with the chatbot interface.
-
 
 🛠️ How to Run the Medical Q&A Chatbot:
 # Step 1: Clone the repository
@@ -84,7 +64,7 @@ pip install -r Requirments.txt
 
 # Step 4: Run the chatbot
 streamlit run UI.py
-
+```
 
 ✨ Example Usage
 You can ask questions like:
